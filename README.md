@@ -33,7 +33,7 @@ I am very passionate about tech and the cloud.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/LuqmanBello_) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqman-bello/)
 
-[![Luqman's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqmanbello&count_private=true&show_icons=true&theme=radical)](https://github.com/luqmanbello/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanbello&langs_count=5&theme=radical&hide=ruby )]()
+[![Luqman's github stats](https://github-readme-stats.vercel.app/api?username=luqmanbello)](https://github.com/luqmanbello/github-readme-stats)
 <!--
 **luqmanbello/luqmanbello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
