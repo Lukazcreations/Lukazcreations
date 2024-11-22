@@ -1,20 +1,21 @@
-<h3 align="center">👋 Hi, I'm Luqman Bello ✌️</h3>
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 👋 Hi, I'm Luqman Bello ✌️</h3>
 
-<!-- ![](logo.jpg) -->
+<!-- Profile Views -->
 
-I am a DevOps Engineer ☁️, tech lover and Cloud Advocate 💻
+I am a DevOps Engineer ☁️, tech lover, and Cloud Advocate 💻
 
 I am very passionate about tech and the cloud.
 
 🔭 I’m currently working on building secure pipelines to take code to the moon 🚀
 
-🌱 I’m currently learning more about DevOps, Open Source and the cloud in general
+🌱 I’m currently learning more about DevOps, Open Source, and the cloud in general
 
-👯 I’m looking to collaborate on DevOps SRE and Cloud related projects
+👯 I’m looking to collaborate on DevOps SRE and cloud-related projects
 
-💬 Ask me about IAC, CI/CD and anything DevOps related
+💬 Ask me about IAC, CI/CD, and anything DevOps related
 
-⚡ Fun fact: ...The human nose can detect more than a trillion different scents, which is far more than the number of colors the human eye can see. Our sense of smell is closely tied to our memory and emotions, and can have a powerful influence on our behavior and feelings.
+⚡ Fun fact: ...The human nose can detect more than a trillion different scents, far more than the number of colors the human eye can see. Our sense of smell is closely tied to our memory and emotions, and can have a powerful influence on our behavior and feelings.
 
 #### Top Technologies and Stack ⚡️
 
