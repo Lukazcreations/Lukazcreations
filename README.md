@@ -1,41 +1,69 @@
-<!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello! I'm Luqman Bello </h3>
+# <div align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Luqman Bello</div>
 
-<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=luqmanbello&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-I am a DevOps Engineer ☁️, tech lover, and Cloud Advocate 💻
+<p align="center">
+  <a href="https://github.com/luqmanbello">GitHub</a> •
+  <a href="https://linkedin.com/in/luqman-bello">LinkedIn</a> •
+  <a href="https://twitter.com/LuqmanBello_">Twitter</a>
+</p>
 
-I am very passionate about tech and the cloud.
+---
 
-🔭 I’m currently working on building secure pipelines to take code to the moon 🚀
+✨ I'm a DevOps and Site Reliability Engineer with over 7 years of expertise in designing, building, and optimizing infrastructures for high-traffic systems. Currently at OpenBB, I'm passionate about cloud architecture, automation, and building scalable systems.
 
-🌱 I’m currently learning more about DevOps, Open Source, and the cloud in general
+I'm an AWS Community Builder and Microsoft Certified Trainer who loves sharing knowledge and contributing to the tech community. My expertise spans across multiple cloud platforms and modern DevOps practices, with a focus on making infrastructure more efficient and secure.
 
-👯 I’m looking to collaborate on DevOps SRE and cloud-related projects
+<!-- code gif can be added here -->
+<img align="right" alt="Coding" src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="400" height="300" />
 
-💬 Ask me about IAC, CI/CD, and anything DevOps related
+- 🔭 Currently working on: Building secure and scalable cloud infrastructures
+- 🌱 Learning: Advanced MLOps and DevSecOps practices
+- 💬 Ask me about: AWS, Azure, Kubernetes, Terraform, or anything DevOps
+- 📫 How to reach me: [luqmanlekanbello@gmail.com](mailto:luqmanlekanbello@gmail.com)
+- ⚡ Fun fact: When not coding, I enjoy exploring new technologies and contributing to open source
 
-⚡ Fun fact: ...The human nose can detect more than a trillion different scents, far more than the number of colors the human eye can see. Our sense of smell is closely tied to our memory and emotions, and can have a powerful influence on our behavior and feelings.
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-#### Top Technologies and Stack ⚡️
+<p>
+    <a href="https://linkedin.com/in/luqman-bello"><img src="https://img.shields.io/badge/-Luqman%20Bello-blue?style=plastic&labelColor=blue&logo=LinkedIn&link=https://linkedin.com/in/luqman-bello" alt="LinkedIn Badge"></a>
+    <a href="https://twitter.com/LuqmanBello_"><img src="https://img.shields.io/badge/-Luqman%20Bello-informational?style=plastic&labelColor=informational&logo=Twitter&link=https://twitter.com/LuqmanBello_" alt="Twitter Badge"></a>
+    <a href="https://github.com/luqmanbello"><img src="https://img.shields.io/badge/-Luqman%20Bello-gray?style=plastic&labelColor=gray&logo=Github&link=https://github.com/luqmanbello" alt="GitHub Badge"></a>
+</p>
 
-![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=222222&logo=Kubernetes&logoColor=3970E4&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=FFE873&logo=Python&logoColor=4B8BBE&label=)
-![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)  ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=) 
-![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=222222&logo=Terraform&logoColor=3970E4&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) ![Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Azure&color=222222&logo=Azure&logoColor=3970E4&label=) ![GCP](https://img.shields.io/static/v1?style=for-the-badge&message=GCP&color=222222&logo=GCP&logoColor=3970E4&label=) ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=222222&logo=Jenkins&logoColor=3970E4&label=) ![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=222222&logo=Ansible&logoColor=3970E4&label=) ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=222222&logo=Git&logoColor=3970E4&label=) ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=222222&logo=GitHub&logoColor=3970E4&label=) ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=3970E4&label=) ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=222222&logo=Jira&logoColor=3970E4&label=) ![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=222222&logo=Confluence&logoColor=3970E4&label=) 
+## 🛠️ Technologies & Tools
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### Profile Visits 
+## 📊 My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-![visitors](https://komarev.com/ghpvc/?username=luqmanbello)
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanbello&theme=dark" alt="Luqman's Streak Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luqmanbello&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" alt="Luqman's Languages" height="195px" width="500px"/>
+</div>
 
-### :mailbox: Contact me!
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stats</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=luqmanbello&show_icons=true&theme=dark" />
+</details>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/LuqmanBello_) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqman-bello/)
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/luqmanbello"><img alt="Luqman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luqmanbello&custom_title=Luqman's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
 
-<!--
-**luqmanbello/luqmanbello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-
--->
+<div align="center">
+  <i>⭐️ From [luqmanbello](https://github.com/luqmanbello)</i>
+</div>
