@@ -108,9 +108,3 @@ I'm an AWS Community Builder and Microsoft Certified Trainer who loves sharing k
    <a href="https://github.com/luqmanbello"><img alt="Luqman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luqmanbello&custom_title=Luqman's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
-
----
-
-<div align="center">
-  <i>⭐️ From [luqmanbello](https://github.com/luqmanbello)</i>
-</div>
