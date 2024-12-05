@@ -92,8 +92,8 @@ I'm an AWS Community Builder and Microsoft Certified Trainer who loves sharing k
 
 ## 📊 My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanbello&theme=dark" alt="Luqman's Streak Stats" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqmanbello&theme=dark" alt="Luqman's Streak Stats" />
 </div>
 
 **Expand to view**
@@ -108,3 +108,5 @@ I'm an AWS Community Builder and Microsoft Certified Trainer who loves sharing k
    <a href="https://github.com/luqmanbello"><img alt="Luqman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luqmanbello&custom_title=Luqman's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
+
+---
